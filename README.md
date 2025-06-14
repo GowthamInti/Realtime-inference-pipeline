@@ -47,7 +47,7 @@ ml-pipeline/
 
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/GowthamInti/Realtime-inference-pipeline.git
 cd ml-pipeline
 
 # Install dependencies
