@@ -3,7 +3,7 @@ A production-ready ML data pipeline with automated ETL, data validation, and rea
 ## Project Structure
 
 ```
-ml-pipeline/
+Realtime-inference-pipeline/
 ├── airflow/
 │   ├── dags/
 │   │   └── etl_pipeline.py
@@ -48,7 +48,7 @@ ml-pipeline/
 ```bash
 # Clone repository
 git clone https://github.com/GowthamInti/Realtime-inference-pipeline.git
-cd ml-pipeline
+cd Realtime-inference-pipeline
 
 # Install dependencies
 pip install -r requirements.txt
